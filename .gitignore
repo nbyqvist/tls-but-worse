@@ -1,0 +1,9 @@
+node_modules/
+client/self_keys/*.key
+client/trusted_keys/*.key
+server/self_keys/*.key
+server/trusted_keys/*.key
+client/self_keys/*.key.pub
+client/trusted_keys/*.key.pub
+server/self_keys/*.key.pub
+server/trusted_keys/*.key.pub
